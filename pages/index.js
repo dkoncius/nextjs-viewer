@@ -26,7 +26,7 @@ export default function Home() {
 
 
   // Slider data
-  const sliderData = ['RobotExpressive', 'Chair', 'GeoPlanter', "ToyTrain", "Hamburger"]
+  const sliderData = ['RobotExpressive', 'Chair', 'GeoPlanter', "LittlestTokyo", "Hamburger"]
 
   // Change model
   const switchSrc = (event, name) => {
